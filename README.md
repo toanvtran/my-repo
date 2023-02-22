@@ -1,2 +1,2 @@
 ### Group 20 - Project 19
-Source code, details and instructions are all in schedule.ipynb file
+Source code and details are all in the schedule.ipynb file
